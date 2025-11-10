@@ -58,7 +58,6 @@ const danken = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danken4445&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danken4445&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
